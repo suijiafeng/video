@@ -1,0 +1,5 @@
+AuthName "Restricted Area"
+AuthType Basic
+AuthUserFile /video.suijiafeng.com/htdocs/video/.htpasswd
+AuthGroupFile /suijiafeng.ml/
+require valid-user
